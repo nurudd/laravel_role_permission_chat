@@ -16,7 +16,7 @@ password - 12345678
 ## Project Setup
 Git clone -
 ```console
-git clone https://github.com/ManiruzzamanAkash/laravel-role.git
+git clone https://github.com/nurudd/laravel_role_permission_chat.git
 ```
 
 Go to project folder -
