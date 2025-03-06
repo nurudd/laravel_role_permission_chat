@@ -17,7 +17,7 @@ git clone https://github.com/nurudd/laravel_role_permission_chat.git
 
 Go to project folder -
 ```console
-cd laravel-role
+cd laravel_role_permission_chat
 ```
 
 Install Laravel Dependencies -
